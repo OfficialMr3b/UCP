@@ -16,7 +16,7 @@ Bot created by Mr3b#8653 so that the player can link his account in the game to 
 5 - Type ```node server.js``` to start the bot that's all
 
 ## Contributors
-| <img src="https://cdn.discordapp.com/avatars/832459210327064626/7a053dbe144e859c87cd160308389c56.png" width="115"><br><sub>Mr3b#8653</sub> |
+| <img src="https://i.imgur.com/9eOHGEq.png" width="115"><br><sub>imr3b</sub> |
 | :---------------------------------------------------------------------------------------------------------------------: |
 
 <br>
